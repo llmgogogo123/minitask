@@ -2,3 +2,12 @@ build/
 *.o
 a.out
 lambda_basic
+lambda_capture
+task_test
+task_syntax
+make_task_test
+queue_test
+string_view_test
+stress_test
+edge_test
+bench/parse_bench
